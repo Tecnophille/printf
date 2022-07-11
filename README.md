@@ -37,8 +37,8 @@
 
 
 ## Project Requirements
-* All files will be compiled on Ubuntu 14.04 LTS
-* Programs and functions will be compiled with gcc 4.8.4 using flags -Wall -Werror -Wextra and -pedantic
+* All files will be compiled on Ubuntu 20.04 LTS
+* Programs and functions will be compiled with gcc using flags -Wall -Werror -Wextra and -pedantic
 * Code must follow the [Betty] style
 * Global variables are not allowed
 * Authorized functions and macros:
